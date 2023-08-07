@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lot-cryp-dev/static/css/main.7acaea2f.css",
+    "main.js": "/lot-cryp-dev/static/js/main.164e10e2.js",
+    "index.html": "/lot-cryp-dev/index.html",
+    "main.7acaea2f.css.map": "/lot-cryp-dev/static/css/main.7acaea2f.css.map",
+    "main.164e10e2.js.map": "/lot-cryp-dev/static/js/main.164e10e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.164e10e2.js"
+  ]
+}
