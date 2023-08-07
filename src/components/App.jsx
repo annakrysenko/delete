@@ -7,7 +7,7 @@ export const App = () => {
         justifyContent: 'center',
       }}
     >
-      React homework template
+      React homework template 11
     </div>
   );
 };
